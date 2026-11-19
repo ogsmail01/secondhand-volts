@@ -1,0 +1,6 @@
+app-token.json
+credentials.json
+mqtt-device-id.txt
+mqtt-state.json
+*.p12
+__pycache__/
